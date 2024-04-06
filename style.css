@@ -1,0 +1,143 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: hsl(0, 0%, 8%);
+    font-family: 'Inter', sans-serif;
+}
+
+.div-1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 384px;
+    height: 630px;
+    background-color: hsl(0, 0%, 12%);
+    text-align: center;
+    border-radius: 10px;
+   
+
+}
+.Jessica {
+    position: absolute;
+    right: 40%;
+    margin-top: 40px ;
+    width: 92px;
+    height: 87px;
+    border-radius: 60px;
+    
+}
+.h1text {
+    padding-top: 160px;
+    padding-bottom: 18px;
+    color: hsl(0, 0%, 100%);
+    font-size: 26px;
+    font-weight: 700;
+}
+.p1 {
+    color: hsl(75, 94%, 57%);
+    font-weight: 500;
+    padding-bottom: 33px;
+}
+.p2 {
+    color: hsl(0, 0%, 85%);
+    padding-bottom: 30px;
+}
+
+.button1 {
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 12px;
+    border: none;
+    color: hsl(0, 0, 100%);
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 16px;
+    padding: 15px;
+    width: 90%;   
+}
+.button2 {
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 12px;
+    border: none;
+    color: hsl(0, 0, 100%);
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 16px;
+    padding:15px;
+    width: 90%;
+    margin-top: 15px;
+}
+.button3 {
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 12px;
+    border: none;
+    color: hsl(0, 0, 100%);
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 16px;
+    padding:15px;
+    width: 90%; 
+    margin-top: 15px;
+}
+.button4 {
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 12px;
+    border: none;
+    color: hsl(0, 0, 100%);
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 16px;
+    padding:15px;
+    width: 90%; 
+    margin-top: 15px;
+}
+.button5 {
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 12px;
+    border: none;
+    color: hsl(0, 0, 100%);
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 16px;
+    padding:15px;
+    width: 90%; 
+    margin-top: 15px;
+}
+.button1:hover{
+    background-color: hsl(75, 94%, 57%);
+    
+}
+.button2:hover {
+    background-color:hsl(75, 94%, 57%);
+
+}
+.button3:hover{
+    background-color:hsl(75, 94%, 57%);
+
+}
+.button4:hover {
+    background-color:hsl(75, 94%, 57%);
+}
+.button5:hover {
+    background-color:hsl(75, 94%, 57%);
+}
+.a1 {
+    text-decoration: none;
+}
+.a2 {
+    text-decoration: none;
+}
+.a3 {
+    text-decoration: none;
+}
+.a4 {
+    text-decoration: none;
+}
+.a5 {
+    text-decoration: none;
+}
+
